@@ -6,6 +6,6 @@ public class HelloRishi {
 	{
 		System.out.println("Hey , This is rishi here!!!");
 		System.out.println("Hey , hi this rishi here!!!");
-		//this is rishi here
+		
 	}
 }
